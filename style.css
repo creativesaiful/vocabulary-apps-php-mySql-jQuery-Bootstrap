@@ -1,0 +1,11 @@
+.link a{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.sidebar ul li{
+    list-style-type: none;
+}
+.sidebar ul li a{
+    text-decoration: none;
+}
